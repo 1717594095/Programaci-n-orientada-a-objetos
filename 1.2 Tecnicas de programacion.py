@@ -24,5 +24,3 @@ print(mi_perro.peso)
 print(mi_perro.sonido)
 mi_perro.eat()
 print(mi_perro.peso)
-
-
