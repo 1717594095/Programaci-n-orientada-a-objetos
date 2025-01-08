@@ -58,6 +58,7 @@ class Hotel:
 
 # main.py
 
+
 def main():
     # Crear una instancia del hotel
     mi_hotel = Hotel("Hotel Paraíso")
