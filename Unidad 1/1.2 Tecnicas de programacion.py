@@ -20,12 +20,8 @@ class cat(animal):
 
 mi_perro = dog("chimuelo", 5, "Guuuaaa")
 
-
-
 print(mi_perro.nombre)
 print(mi_perro.peso)
 print(mi_perro.sonido)
 mi_perro.eat()
 print(mi_perro.peso)
-
-
