@@ -1,4 +1,4 @@
-# Programación-orientada-a-objetos
+# Programacion-orientada-a-objetos
 
 Mi nombre es Carlos Alberto Salgado Vélez
 
