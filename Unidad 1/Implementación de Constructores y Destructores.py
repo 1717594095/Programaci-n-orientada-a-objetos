@@ -32,3 +32,8 @@ archivo_obj.abrir()
 archivo_obj.escribir("Este es un ejemplo de uso de constructores y destructores.")
 # El objeto será destruido aquí y el destructor se llamará
 del archivo_obj
+
+
+
+
+
