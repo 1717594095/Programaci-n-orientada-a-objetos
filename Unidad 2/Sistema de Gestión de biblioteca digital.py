@@ -128,4 +128,3 @@ libros_prestados = biblioteca.listar_libros_prestados("001")
 print("\nLibros prestados a Juan Pérez después de la devolución:")
 for libro in libros_prestados:
     print(libro)
-
